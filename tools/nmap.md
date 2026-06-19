@@ -4,30 +4,25 @@
 
 Network discovery and security auditing.
 
-## Basic Commands
+## Common Commands
 
-### Scan a host
-
+```bash
 nmap 192.168.1.1
-
-### Service detection
-
 nmap -sV 192.168.1.1
-
-### OS detection
-
 nmap -O 192.168.1.1
+nmap -A 192.168.1.1
+```
 
 ## Useful Flags
 
-| Flag | Description |
-|--------|------------|
+| Flag | Purpose |
+|---------|---------|
 | -sS | SYN Scan |
-| -sV | Service Version Detection |
+| -sV | Version Detection |
 | -O | OS Detection |
 | -A | Aggressive Scan |
 
 ## Notes
 
-- SYN Scan requires elevated privileges.
-- Aggressive scan combines several techniques.
+One of the most important tools in cybersecurity.
+```
