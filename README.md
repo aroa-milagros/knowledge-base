@@ -2,40 +2,41 @@
 
 Personal technical knowledge repository focused on Computer Engineering, Cybersecurity, Networking and Linux Systems.
 
-## Contents
+## Areas
 
 ### Linux
 - Commands
-- File System
+- Filesystem
 - Permissions
-- Users and Groups
 
 ### Networking
 - OSI Model
 - TCP/IP
-- Subnetting
-- DNS
 - Common Ports
-
-### Python
-- Basics
-- File Handling
-- Sockets
-- Useful Snippets
+- Subnetting
 
 ### Cybersecurity
 - Methodology
-- Enumeration
 - Vulnerabilities
 - Web Security
+
+### Python
+- Snippets
+- Notes
 
 ### Tools
 - Nmap
 - Wireshark
 - Burp Suite
-- Metasploit
+
+### TryHackMe
+- Learning Notes
 
 ### References
 - Books
 - Websites
 - Courses
+
+---
+
+This repository serves as my personal technical documentation and learning journal.
